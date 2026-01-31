@@ -1,4 +1,4 @@
-# Description
+## Description
 
 This R script provides a function to estimate the Scaled Mass Index (SMI) following Peig and Green (2009); DOI:  https://doi.org/10.1111/j.1600-0706.2009.17643.x.
 
