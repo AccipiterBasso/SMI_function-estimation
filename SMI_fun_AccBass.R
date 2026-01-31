@@ -3,7 +3,7 @@
 # Affiliation: Osa Conservation
 # Email: enzobasso@osaconservation.org
 # Date: 2026-01-28
-# Description: Function for estimating the Scaled Mass Index (SMI) based on Peig & Green (2009)
+# Description: Function for estimating the Scaled Mass Index (SMI) based on Peig and Green (2009)
 # https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1600-0706.2009.17643.x
 # -------------------------------------------------
 # --- Versions used ---
