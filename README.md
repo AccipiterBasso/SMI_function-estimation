@@ -13,6 +13,12 @@ The function performs the following steps:
    - Scatterplots of body mass vs. the selected morphometric variable.
    - Log–log plots with the SMA regression line and slope.
    - Individual SMI values projected on the original scale for visual inspection.
+   - 
+## Cite this project
+
+If you use this code, please cite it as:
+
+Basso, E. 2026. SMI_function-estimation. Zenodo. [![DOI](https://zenodo.org/badge/1146390049.svg)](https://doi.org/10.5281/zenodo.18437806)
 
 ## Note
 
