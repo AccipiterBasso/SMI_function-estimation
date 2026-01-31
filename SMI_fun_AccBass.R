@@ -104,8 +104,8 @@ SMI_fun = function(x, y) {
 }
 
 # --- Run the function ---
-smi_vul = SMI_fun(x, y)
-print(smi_vul)
+smi_res = SMI_fun(x, y)
+print(smi_res)
 
 
 

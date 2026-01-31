@@ -6,11 +6,11 @@ This R script provides a function to estimate the Scaled Mass Index (SMI) follow
 
 The function performs the following steps:
 
-1. Selects the morphometric variable** most strongly correlated with body mass on a log–log scale.
-2. Fits a Standardized Major Axis (SMA) model** to estimate the scaling exponent.
-3. Computes individual SMI values** for each observation.
-4. Generates graphical outputs** for visual exploration, including:
-   - Scatterplots of mass vs. the selected morphometric variable.
+1. Selects the morphometric variable most strongly correlated with body mass on a log–log scale.
+2. Fits a Standardized Major Axis (SMA) model to estimate the scaling exponent.
+3. Computes individual SMI values for each individual.
+4. Generates graphical outputs for visual exploration:
+   - Scatterplots of body mass vs. the selected morphometric variable.
    - Log–log plots with the SMA regression line and slope.
    - Individual SMI values projected on the original scale for visual inspection.
 
