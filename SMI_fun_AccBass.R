@@ -43,8 +43,8 @@ SMI_fun = function(x, y) {
   #.Formula for the SMI
   SMI = Mi * (L0/L1)^bsma
   
-  #.4 Output exploration
-  #.Colors
+  #.4 Output visualization
+  #.Plot color parameters
   r_p_c = 'white'
   r_p_b = 'steelblue'
   smi_p_c = 'black'
@@ -91,7 +91,7 @@ SMI_fun = function(x, y) {
   points(best_var, Mi, pch = 24, bg = r_p_c, col = r_p_b, 
          cex = 1.2)
   
-  #.4 Output visualization
+  #.4 Output 
   Index = data.frame(SMI = round(SMI, 1), BestVar = best_var, Mass = y)
   names(Index)[names(Index) == 'BestVar'] = best_var_name
   return(list(BestVariable = best_var_name, 
