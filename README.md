@@ -13,7 +13,7 @@ The function performs the following steps:
    - Scatterplots of body mass vs. the selected morphometric variable.
    - Log–log plots with the SMA regression line and slope.
    - Individual SMI values projected on the original scale for visual inspection.
-   - 
+     
 ## Cite this code
 
 If you use this code, please cite it as:
