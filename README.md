@@ -22,4 +22,4 @@ Basso, E. 2026. SMI_function-estimation. Zenodo. [![DOI](https://zenodo.org/badg
 
 ## Note
 
-The core functionality of SMI estimation is complete. The code is under active development and may be refined or extended in future versions.
+The core functionality of SMI estimation is complete; however, the code is still under active development and may be refined or extended in future versions. 
