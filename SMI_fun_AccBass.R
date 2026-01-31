@@ -91,7 +91,7 @@ SMI_fun = function(x, y) {
   points(best_var, Mi, pch = 24, bg = r_p_c, col = r_p_b, 
          cex = 1.2)
   
-  #.4 Output
+  #.4 Output summary
   Index = data.frame(SMI = round(SMI, 1), BestVar = best_var, Mass = y)
   names(Index)[names(Index) == 'BestVar'] = best_var_name
   return(list(BestVariable = best_var_name, 
