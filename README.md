@@ -18,7 +18,7 @@ The function performs the following steps:
 
 If you use this code, please cite it as:
 
-Basso, E. 2026. SMI_function-estimation. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18437806.svg)](https://doi.org/10.5281/zenodo.18437806)
+Basso E (2026) SMI_function-estimation [Computer software]. Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18437806.svg)](https://doi.org/10.5281/zenodo.18437806)
 
 ## Note
 
