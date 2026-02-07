@@ -23,3 +23,10 @@ Basso, E. 2026. SMI_function-estimation. Zenodo. [![DOI](https://zenodo.org/badg
 ## Note
 
 The core functionality of SMI estimation is complete; however, the code is still under active development and may be refined or extended in future versions. 
+
+## License
+
+This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).  
+
+© 2026 AccipiterBasso  
+Full license: [https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
